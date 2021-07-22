@@ -21,11 +21,12 @@ DATA EXPLORING
 
 Explore the data set in Power Query by looking at:
 
-the data the data set presents,
-how it presents this data,
-the columns are there in the data set, what they present, their data types
-the quality of the data (empty, error and distinct in a certain column)
-While I explore the dataset, I try to decide which columns and rows are necessary for this project which are not, which columns needs to be fixed to make it suitable for this project and so on.
+- the data the data set presents,
+- how it presents this data,
+- the columns are there in the data set, what they present, their data types
+- the quality of the data (empty, error and distinct in a certain column)
+
+While I'm exploring the dataset, I try to decide which columns and rows are necessary for this project which are not, which columns needs to be fixed to make it suitable for this project and so on.
 
 ![POWER QUERY](https://user-images.githubusercontent.com/71211875/126688693-82fe9d24-e95f-4ab6-b317-814741956eb0.GIF)
 
