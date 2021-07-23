@@ -63,4 +63,3 @@ For the final report: https://app.powerbi.com/reportEmbed?reportId=9388d238-2fb1
 
 For the project description: https://reemalraeai.wordpress.com/portfolio/crude-suicide-rate-2019-overview/
 
-
